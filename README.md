@@ -1,5 +1,7 @@
 # Fractal Font Demos
 
+![](demo.gif "Animation of a variable font with fractal components")
+
 Generating fractals using components in [Glyphs](https://glyphsapp.com/).
 
 ## How to use
